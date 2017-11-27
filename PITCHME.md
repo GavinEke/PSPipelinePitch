@@ -18,7 +18,7 @@
 
 ### The Release Pipeline Model
 
-![Pipeline](images/pipeline.jpg)
+![Pipeline](images/pipeline.png)
 
 [http://aka.ms/thereleasepipelinemodel](http://aka.ms/thereleasepipelinemodel)
 
@@ -43,7 +43,7 @@ Note: Why use source control? Single source of truth and versioning
 @title[Source2]
 
 ### Source
-![Source](images/source.jpg)
+![Source](images/source.png)
 #### Single path for changes
 
 * Git
@@ -56,7 +56,7 @@ Note: What tools can we use? GitHub, GitLab, BitBucket, Team Foundation Server, 
 @title[Build]
 
 ### Build
-![Build](images/build.jpg)
+![Build](images/build.png)
 #### Run scripts when changes are checked in
 
 * Orchestrate tasks
@@ -70,7 +70,7 @@ Note: What does the build system provide for me?
 @title[Build2]
 
 ### Build
-![Build](images/build.jpg)
+![Build](images/build.png)
 #### Run scripts when changes are checked in
 
 * PSake
@@ -85,7 +85,7 @@ Note: What tools are avalible for a build system?
 @title[Testing]
 
 ### Testing
-![Testing](images/testing.jpg)
+![Testing](images/testing.png)
 #### Run scripts to evaluate the quality of changes
 
 * Check for issues
@@ -98,7 +98,7 @@ Note: I don't think anyone needs to ask why is testing important
 @title[Testing2]
 
 ### Testing
-![Testing](images/testing.jpg)
+![Testing](images/testing.png)
 #### Run scripts to evaluate the quality of changes
 
 * Pester
@@ -111,7 +111,7 @@ Note: What tools can I use for testing my PowerShell modules and scripts?
 @title[Release]
 
 ### Release
-![Release](images/release.jpg)
+![Release](images/release.png)
 #### Deploy changes to production
 
 * Can I deploy straight to production?
