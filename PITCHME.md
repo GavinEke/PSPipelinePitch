@@ -7,7 +7,7 @@
 @title[Who Am I?]
 
 ### Who Am I?
-![Avatar](images/avatar.jpg)
+![Avatar](assets/images/avatar.jpg)
 * Gavin Eke
 * Infrastructure Administrator for Daracon
 * Author of [Scripting.Rocks](http://scripting.rocks/)
@@ -18,7 +18,7 @@
 
 ### The Release Pipeline Model
 
-![Pipeline](images/pipeline.png)
+![Pipeline](assets/images/pipeline.png)
 
 [http://aka.ms/thereleasepipelinemodel](http://aka.ms/thereleasepipelinemodel)
 
@@ -29,7 +29,7 @@ Note: The release pipeline model is a whitepaper by Michael Greene and Steven Mu
 @title[Source]
 
 ### Source
-![Source](images/source.jpg)
+![Source](assets/images/source.jpg)
 #### Single path for changes
 
 * Who made the change?
@@ -43,7 +43,7 @@ Note: Why use source control? Single source of truth and versioning
 @title[Source2]
 
 ### Source
-![Source](images/source.png)
+![Source](assets/images/source.png)
 #### Single path for changes
 
 * Git
@@ -56,7 +56,7 @@ Note: What tools can we use? GitHub, GitLab, BitBucket, Team Foundation Server, 
 @title[Build]
 
 ### Build
-![Build](images/build.png)
+![Build](assets/images/build.png)
 #### Run scripts when changes are checked in
 
 * Orchestrate tasks
@@ -70,7 +70,7 @@ Note: What does the build system provide for me?
 @title[Build2]
 
 ### Build
-![Build](images/build.png)
+![Build](assets/images/build.png)
 #### Run scripts when changes are checked in
 
 * PSake
@@ -85,7 +85,7 @@ Note: What tools are avalible for a build system?
 @title[Testing]
 
 ### Testing
-![Testing](images/testing.png)
+![Testing](assets/images/testing.png)
 #### Run scripts to evaluate the quality of changes
 
 * Check for issues
@@ -98,7 +98,7 @@ Note: I don't think anyone needs to ask why is testing important
 @title[Testing2]
 
 ### Testing
-![Testing](images/testing.png)
+![Testing](assets/images/testing.png)
 #### Run scripts to evaluate the quality of changes
 
 * Pester
@@ -111,7 +111,7 @@ Note: What tools can I use for testing my PowerShell modules and scripts?
 @title[Release]
 
 ### Release
-![Release](images/release.png)
+![Release](assets/images/release.png)
 #### Deploy changes to production
 
 * Can I deploy straight to production?
@@ -124,7 +124,7 @@ Note: Can we go straight to production, what do we need to do to go to productio
 @title[Release2]
 
 ### Release
-![Release](images/release.jpg)
+![Release](assets/images/release.jpg)
 #### Deploy changes to production
 
 * PSDeploy
