@@ -29,7 +29,7 @@ Note: The release pipeline model is a whitepaper by Michael Greene and Steven Mu
 @title[Source]
 
 ### Source
-![Source](assets/images/source.jpg)
+![Source](assets/images/source.png)
 #### Single path for changes
 
 * Who made the change?
@@ -124,7 +124,7 @@ Note: Can we go straight to production, what do we need to do to go to productio
 @title[Release2]
 
 ### Release
-![Release](assets/images/release.jpg)
+![Release](assets/images/release.png)
 #### Deploy changes to production
 
 * PSDeploy
